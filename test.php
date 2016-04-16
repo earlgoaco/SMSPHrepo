@@ -107,6 +107,3 @@ for($i=0; $i < sizeof($arr_cp);$i++){
 		curl_close($ch);
 	}
 }
-
-?>
-
